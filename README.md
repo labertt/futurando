@@ -46,6 +46,37 @@ Aqui estão algumas extensões úteis para o desenvolvimento do Next.js que pode
 
 Certifique-se de instalar e configurar essas extensões em seu editor de código preferido para ajudar no desenvolvimento e garantir a qualidade do código.
 
+## Configurações adiconais
+
+```
+    {
+        "emmet.syntaxProfiles": {
+            "javascript": "jsx"
+        },
+        "workbench.iconTheme": "symbols",
+        "workbench.productIconTheme": "fluent-icons",
+        "editor.inlineSuggest.enabled": true,
+        "workbench.colorTheme": "Omni",
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true,
+            "source.addMissingImports": true
+        },
+        "[prisma]": {
+            "editor.formatOnSave": true
+        },
+        "emmet.includeLanguages": {
+            "javascript": "javascriptreact"
+        },
+        "explorer.confirmDelete": false,
+        "tabnine.experimentalAutoImports": true,
+        "editor.fontSize": 18,
+        "window.zoomLevel": -1,
+        "symbols.hidesExplorerArrows": false,
+        "git.enableSmartCommit": true,
+        "git.confirmSync": false,
+    }
+```
+
 ## Contribuindo
 
 Se você deseja contribuir com o projeto Next.js, siga estas diretrizes:
