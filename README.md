@@ -87,4 +87,4 @@ Se você deseja contribuir com o projeto Next.js, siga estas diretrizes:
 
 3. **Crie um branch**: Crie um branch em seu fork para trabalhar na tarefa selecionada.
 
-4. **Implemente as alterações**: Faça as alterações necessárias no código para resolver a tarefa. Certifique-se de seguir as convenções de código existentes e escrever testes adequados, se aplicável
+4. **Implemente as alterações**: Faça as alterações necessárias no código para resolver a tarefa. Certifique-se de seguir as convenções de código existentes e escrever testes adequados, se aplicável.
